@@ -1,0 +1,87 @@
+/* Noto Sans & other fonts*/
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+
+.jumbotron {
+    padding: 2rem 1rem;
+    margin-bottom: 2rem;
+    background-color: #e9ecef;
+    border-radius: .0rem .3rem .3rem .0rem;
+    color:black;
+    font-family: Roboto;
+  }
+  .jumbotron.text-center {
+    padding: 2rem 1rem;
+    margin-bottom: 2rem;
+    background-color: skyblue;
+    border-radius: none;
+    text-align: center;
+    color:white;
+    font-size: 35px;
+    width: 70%;
+  }
+  .navbar-brand {
+      font-family: Roboto Mono;
+  }
+  .nav-link {
+      font-variant:initial;
+      font-family: Roboto;
+  }
+  .mdl-textfield__input {
+      font-family: Roboto;
+  }
+  .mdl-badge {
+      text-overflow: initial;
+  }
+  code {
+      font-family: Roboto Mono;
+      font-weight: bold;
+      color:black;
+      border-radius: .3rem;
+      background-color: #e9ecef;
+  }
+  #readme {
+      border-radius: .3rem;
+      border-style: solid;
+      box-shadow: rgba(0, 0, 0, 0)2px 2px, rgba(156, 172, 172, 0.2) 0px 4px 4px, rgba(156, 172, 172, 0.2) 0px 8px 8px, rgba(156, 172, 172, 0.2) 0px 16px 16px, rgba(156, 172, 172, 0.2) 0px 32px 32px, rgba(156, 172, 172, 0.2) 0px 64px 64px;
+      width:70%;
+      text-align:center;
+    }
+    .lightningVideoChat {
+        background-image: url(https://live.staticflickr.com/3438/3762193048_ecaa18a3a1_b.jpg);
+        height:100vh;
+        width:100vw;
+        background-size: cover;
+        background-repeat: no-repeat;
+        color: white;
+        font-size: 30px;
+        font-weight: bold;
+        text-align: center;
+        font-family: Noto Sans JP;
+    }
+    .Dash {
+        font-family:Poppins;
+        color:black;
+    }
+    
+    .logo  {
+        font-size: 250px;
+
+    }
+    #logo {
+        font-size:100px;
+        color:black;
+    }
+    .ChatIt {
+        color:black;
+    }
+    hr.solid {
+        border-top: 3px solid #bbb;
+      }
+      .info {
+          font-family: Roboto;
+      }
+      .maps {
+          color:black;
+      }
